@@ -1,7 +1,7 @@
 const sun = document.querySelector('#sun');
 
-const sunX = 650
-const sunY = 320
+const sunX = 700
+const sunY = 400
 
 
 const px = (n) => n + 'px'
